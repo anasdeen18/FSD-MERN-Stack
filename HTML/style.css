@@ -1,0 +1,19 @@
+h4{
+    color: greenyellow;
+}
+#id1{
+    color: rgb(40, 53, 78);
+}
+.box{
+    border: 3px solid red;
+    background-color: cornsilk;
+    margin-top: 2%;
+    margin-right: 20%;
+    margin-bottom: 2%;
+    margin-left: 20%;
+    padding-left: 2%;
+    padding-top: 7%;
+    border-radius: 10%;
+    text-align: center;
+    box-shadow: 
+}
